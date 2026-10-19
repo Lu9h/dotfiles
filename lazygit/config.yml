@@ -1,6 +1,4 @@
 gui:
-  authorColors:
-    "Lugh": "#f3be7c"
   theme:
     diffLineColor:
       - "#7fa563"
@@ -25,3 +23,5 @@ gui:
       - "#d8647e"
     defaultFgColor:
       - "#cdcdcd"
+    authorColors:
+      "Lugh": "#f3be7c"
